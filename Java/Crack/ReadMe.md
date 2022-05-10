@@ -1,6 +1,5 @@
 # Installation & Run
-```
-git clone 
+```bash
 java -jar .\Matrix_key.jar 
 ```
 # Description 
